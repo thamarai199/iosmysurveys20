@@ -51,9 +51,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate, UNUserNotificationCenterD
         UIApplication.shared.statusBarStyle = .lightContent
         // Override point for customization after application launch.
         UIApplication.shared.applicationIconBadgeNumber = -1
-        OPGSDK.setAppVersion("iOSSDK-IOS-1.0.0-O")
+        OPGSDK.setAppVersion("")
         self.setAppViews()
-        OPGSDK.initialize(withUserName: "mysurveys2.0", withSDKKey:"com.onepointsurveys.mysurveys2")
+        OPGSDK.initialize(withUserName: "", withSDKKey:"")
         self.registerForPushNotifications(application: application)
         FBSDKApplicationDelegate.sharedInstance().application(application, didFinishLaunchingWithOptions: launchOptions)
         return true
