@@ -1,0 +1,101 @@
+/* 
+  Localizable.strings
+  MySurveys2.0
+
+  Created by Chinthan on 21/10/16.
+  Copyright © 2016 Chinthan. All rights reserved.
+*/
+
+"AboutUs" = "Über uns";
+"Approximately" = "Aproximadamente";
+"Are you sure you want to logout?" = "Möchten Sie sich wirklich abmelden?";
+"Authentication Failed" = "Authentifizierung fehlgeschlagen";
+"Back" = "Zurück";
+"Cancel" = "Stornieren";
+"Can't sign in. Try again." = "Kann mich nicht anmelden";
+"Change Panel" = "Bedienfeld ändern";
+"Change Password" = "Cambia la contraseña";
+"Check your credentials!" = "Überprüfen Sie Ihre Anmeldeinformationen!";
+"Choose From Gallery" = "Wählen Sie aus der Galerie";
+"Completed" = "Abgeschlossen";
+"Confirm Password" = "Bestätige das Passwort";
+"Country" = "Land";
+"Current Password does not exist" = "Das aktuelle Passwort existiert nicht";
+"Delete" = "Löschen";
+"Done" = "Erledigt";
+"Download" = "Herunterladen";
+"Downloading..." = "Herunterladen...";
+"Downloading. Please wait!" = "Wird heruntergeladen. Warten Sie mal!";
+"Downloading surveys. Please wait!" = "Herunterladen von Umfragen. Warten Sie mal!";
+"E-mail Id" = "Identificación de correo";
+"E-mail Id does not exist" = "E-Mail-ID existiert nicht";
+"E-mail Id not found." = "E-mail Id existiert.";
+"Edit" = "Bearbeiten";
+"Error while uploading. Please Refresh again!" = "Fehler beim Hochladen. Bitte wieder auffrischen!";
+"Forgot Password" = "Se te olvidó tu contraseña";
+"Forgot Password?" = "Passwort vergessen?";
+"Forgot your password?" = "Haben Sie Ihr Passwort vergessen?";
+"Geo location" = "Geografische Lage";
+"Got it!" = "Ich habs!";
+"Invalid Credentials" = "Ungültige Anmeldeinformationen";
+"Internal Server Error" = "Haben Sie Ihr Passwor";
+"Location Services not enabled!" = "Haben Sie Ihr Passwort vergessen?";
+"Login" = "Anmeldung";
+"Login with Facebook" = "Iniciar sesión con Facebook";
+"Log out" = "Ausloggen";
+"min" = "min";
+"MySurveys"= "My Surveys";
+"Name" = "Nombre";
+"New" = "Nuevo";
+"New and Confirm passwords should be same" = "Las contraseñas nuevas y de confirmación deben ser las mismas";
+"New Password" = "nueva contraseña";
+"No items selected." = "No se han seleccionado elementos.";
+"No internet connection. Please try again!" = "Netzwerkverbindung verloren. Versuch es noch einmal.";
+"No surveys available for the selected panel." = "Netzwerkverbindung verloren. Versuch es noch einmal.";
+"No Notifications so far." = "No hay notificaciones hasta ahora.";
+"Notifications" = "Benachrichtigungen";
+"Number of times taken" = "Número de veces que se tomó";
+"OK" = "DE ACUERDO";
+"Old Password" = "Contraseña anterior";
+"Old Password cannot be empty." = "Altes Passwort kann nicht leer sein";
+"Old and new passwords cannot be same" = "Alte und neue Passwörter können nicht identisch sein";
+"Oops! Unknown error. Please try again." = "Hoppla! Unbekannter Fehler. Bitte versuche es erneut.";
+"Password" = "Contraseña";
+"Password Change Failed" = "Kennwortänderung fehlgeschlagen";
+"Password changed successfully!" = "Das Passwort wurde erfolgreich geändert!";
+"Password cannot be empty" = "La contraseña no puede estar vacía";
+"Please confirm your new password." = "Please confirm your new password.";
+"Please enable location services from device Settings to take the survey." = "Bitte aktivieren Sie die Standortdienste von den Geräteeinstellungen, um die Umfrage durchzuführen";
+"Please enter a valid e-mail ID." = "Bitte geben Sie Ihre E-Mail-ID ein";
+"Please enter your e-mail ID" = "Bitte geben Sie Ihre E-Mail-ID ein";
+"Please enter your new password." = "Bitte geben Sie Ihre E-Mail-ID ein";
+"Please take the survey before uploading results." = "Bitte geben Sie Ihre E-Mail-ID ein";
+"Please upload offline survey results before logout." = "Bitte geben Sie Ihre E-Mail-ID ein";
+"Privacy" = "Privatsphäre";
+"Profile" = "Profil";
+"Profile image" = "Imagen de perfil";
+"Save" = "Sparen";
+"Send" = "Senden";
+"Settings" = "Senden";
+"Sign in with Google" = "Melden Sie sich mit Google an";
+"Sorry! You are not in survey location. So, you can not take the survey." = "Es tut uns leid! Sie sind nicht in Umfrage Lage. So können Sie die Umfrage nicht nehmen.";
+"Survey" = "Encuesta";
+"Survey not available to take" = "Melden Sie sich mit Google ane";
+"Success! Please check your e-mail for new password!" = "Erfolg! Bitte überprüfen Sie Ihre E-Mail auf neues Passwort!";
+"Sync in progress. Please wait!" = "Synchronisierung läuft. Warten Sie mal!";
+"Take Photo" = "Foto machen";
+"Take Survey" = "Nehmen Sie Umfrage";
+"Terms & Conditions" = "Términos y Condiciones";
+"To take your location based surveys turn on ‘Geolocation’ from the App Settings" = "So nehmen Sie an der Reihe auf standortbasierte Erhebungen Geolokalisierung von den App-Einstellungen";
+"T&C" = "T & C";
+"Unauthorised login" = "Términos y Condiciones";
+"Unable to upload results. Please try again!" = "Melden Sie sich mit Google an!";
+"Upload" = "hochladen";
+"Uploading" = "hochladen";
+"Uploading Offline Survey results" = "Melden Sie sich mit Google an!";
+"Username/password cannot be empty." = "Melden Sie sich mit Google an!";
+"Username/EmailID" = "Benutzername / EmailID";
+"Welcome! You have a survey here" = "Herzlich willkommen! Sie haben eine Umfrage hier";
+"We will email you a link to reset your Password" = "Wir werden Ihnen einen Link per E-Mail senden, um Ihr Passwort zurückzusetzen";
+"You are not in this location to take the survey!" = "Sie sind nicht in diesem Ort, um die Umfrage zu nehmen!";
+
